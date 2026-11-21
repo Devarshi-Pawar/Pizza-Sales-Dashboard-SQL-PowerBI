@@ -1,5 +1,7 @@
-# Pizza-Sales-Dashboard-SQL-PowerBI
 # Pizza Sales Dashboard Using SQL & Power BI - Data Insights
+
+![Pizza Sales Dashboard](dashboard.png)
+![2nd Page Of Dashboard](2nd%20page%20of%20dashboard.png)
 
 ## 📌 Project Overview
 Pizza Sales Dashboard using SQL & Power BI. Analyzed 49,574 pizzas & 21,350 orders. Revenue $817.86K, Avg Order Value $38.31. Classic leads 26.91% sales, Large Size 45.89% preferred, Fri-Sat busiest. Top: Thai Chicken Pizza $43.43K, Low: Brie Carre $11.59K. Interactive dashboard with DAX measures & slicers for data-driven decisions for menu growth.
